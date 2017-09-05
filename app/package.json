@@ -1,0 +1,23 @@
+{
+  "name": "oboade",
+  "version": "1.0.0",
+  "description": "Component framework for building websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danteraphael/oboade.git"
+  },
+  "keywords": [
+    "oboade",
+    "framework"
+  ],
+  "author": "Dante Raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danteraphael/oboade/issues"
+  },
+  "homepage": "https://github.com/danteraphael/oboade#readme"
+}
