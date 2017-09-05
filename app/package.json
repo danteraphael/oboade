@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/danteraphael/oboade/issues"
   },
-  "homepage": "https://github.com/danteraphael/oboade#readme"
+  "homepage": "https://github.com/danteraphael/oboade#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
