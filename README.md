@@ -3,6 +3,9 @@ A components framework for building sites
 
 ## Getting started with Angular 4
 @ https://coursetro.com/posts/code/55/How-to-Install-an-Angular-4-App
+@ https://angular.io/guide/router
+@ https://angular.io/tutorial/toh-pt5
+
 
 ## Sprint 1
 * Select templating framework -- Done
