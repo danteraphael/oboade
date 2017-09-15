@@ -6,7 +6,6 @@ A components framework for building sites
 
 ## Sprint 1
 * Select templating framework -- Done
-* Select templating framework
 * Determine how to create routes in framework
 * Create initial sitemap for site components for MVP
 * Create first component
